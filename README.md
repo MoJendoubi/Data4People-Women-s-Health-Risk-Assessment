@@ -33,4 +33,5 @@ Parameter tuning
 I have chosen (for educational matter) to use the module Tune Model Hyperparameters in Azure ML Studio. I could have also used the R Package Caret.
 Evaluation
 The final model has an accuracy of 86.36% (18 position over almost 500 participants)
-You can find the Azure ML Studio experiment here.
+You can find the Azure ML Studio experiment here : http://gallery.cortanaintelligence.com/Experiment/Women-s-Health-Risk-Assessment-Random-Forest-1
+
